@@ -24,17 +24,15 @@ angular.module('CallForPaper')
         "close": "Fermer"
       },
       "disclaimer": {
-        "line1": "aura lieu les 9 et 10 Novembre 2016 à la Cité des Congrès de Nantes.",
-        "line2": "Un événement international, avec 75% de conférences en français et 25% en anglais.",
-        "line3": "Les principaux thèmes de cette année sont : #cloud #container #paas #iaas #web #angular #react #iot #functionalProgramming #bigData #agile #design.",
-        "line4": "D'autres sujets sont les bienvenus si vous croyez qu'ils sont pertinents.",
-        "line5": "2 speakers maximum.",
-        "line6": "Les speakers sélectionnés par le CFP auront accès gratuitement aux deux jours de la conférence. Petit-déjeuner, Déjeuner, Speaker Dinner & Afterparty sont inclus dans le package.",
-        "line7": "La quasi-totalité est filmée en HD et disponible sur Youtube une semaine après l'événement. Nous avons eu 5 000 vues lors de l'édition 2015",
-        "line8": "Les frais de déplacement et d'hébergement POURRAIENT être couverts par le DevFest Nantes pour les speakers sélectionnés dans le cadre de ce CFP.",
-        "line9": "Pour les speakers qui n'ont pas été sélectionnés, nous ouvrirons si nécessaire de nouvelles places pour permettre à ces derniers de s'inscrire.",
+        "line1": "aura lieu le 9 juin 2017 à l'école E-Artsup de Lille.",
+        "line2": "Les principaux thèmes de cette année sont : #cloud #web #mobile #discovery.",
+        "line3": "D'autres sujets sont les bienvenus si vous croyez qu'ils sont pertinents (.",
+        "line4": "2 speakers maximum.",
+        "line5": "Les speakers sélectionnés par le CFP auront accès gratuitement à la conférence. Petit-déjeuner, Déjeuner, Speaker Dinner sont inclus dans le package.",
+        "line6": "Les frais de déplacement et d'hébergement POURRAIENT être couverts par le DevFest Lille pour les speakers sélectionnés dans le cadre de ce CFP.",
+        "line7": "Pour les speakers qui n'ont pas été sélectionnés, nous ouvrirons si nécessaire de nouvelles places pour permettre à ces derniers de s'inscrire.",
         "codeConduct": "Code de conduite",
-        "urlCodeConduct": "http://devfest.gdgnantes.com/cod.html",
+        "urlCodeConduct": "http://devfest.gdglille.org/cod.html",
         "informations": "Voici quelques informations sur les formats et catégories des talks :",
         "track": "Catégories :",
         "type": "Formats (durée Q/R incluses) :"
@@ -134,8 +132,7 @@ angular.module('CallForPaper')
         "hintType": "Une conférence doit durer environ 50 minutes, un codelab 2 heures et un quickie 20 minutes (Q/R incluses).",
         "types": {
           "conference": "Conférence",
-          "codelab": "Codelab",
-          "quickie": "Quickie"
+          "codelab": "Codelab"
         },
         "hintTrack": "Choisissez la catégorie dans laquelle vous pensez que votre conférence se situe."
       },
@@ -312,17 +309,15 @@ angular.module('CallForPaper')
         "close": "Close"
       },
       "disclaimer": {
-        "line1": "will take place on 9th and 10th November 2016 at the Cité des Congrès in Nantes (France).",
-        "line2": "An international event, talks are expected 75% in french and 25% in english.",
-        "line3": "Main topics for this year are : #cloud #container #paas #iaas #web #angular #react #iot #functionalProgramming #bigData #agile #design.",
-        "line4": "Other topics are welcome if you believe they are relevant.",
-        "line5": "Maximum 2 speakers.",
-        "line6": "Speakers selected through the call for papers will have free access both days of the conference. Breakfast, Lunch, Speaker Dinner & Afterparty are included in the package.",
-        "line7": "Almost all is recorded in HD and available on Youtube one week after the event. We got 5 000 views on 2015 edition",
-        "line8": "Travel and lodging expenses COULD be covered by DevFest Nantes for speakers selected through this call for papers.",
-        "line9": "For speakers who were not selected, we will open if necessary new tickets to allow them to register.",
+        "line1": "will take place on 9th June 2017 at the E-Artsup school in Lille (France).",
+        "line2": "Main topics for this year are : #cloud #web #mobile #discovery.",
+        "line3": "Other topics are welcome if you believe they are relevant.",
+        "line4": "Maximum 2 speakers.",
+        "line5": "Speakers selected through the call for papers will have free access to the conference. Breakfast, Lunch & Speaker Dinner are included in the package.",
+        "line6": "Travel and lodging expenses COULD be covered by DevFest Lille for speakers selected through this call for papers.",
+        "line7": "For speakers who were not selected, we will open if necessary new tickets to allow them to register.",
         "codeConduct": "Code of conduct",
-        "urlCodeConduct": "http://devfest.gdgnantes.com/en/cod.html",
+        "urlCodeConduct": "http://devfest.gdglille.org/en/cod.html",
         "informations": "Some informations about tracks and formats :",
         "track": "Tracks :",
         "type": "Formats (duration Q/A included) :"
@@ -423,8 +418,7 @@ angular.module('CallForPaper')
         "hintType": "A conference must last about 50 minutes, a codelab about 2 hours and a 'quickie' talk 20 minutes.",
         "types": {
           "conference": "Conference",
-          "codelab": "Codelab",
-          "quickie": "Quickie"
+          "codelab": "Codelab"
         },
         "hintTrack": "Choose the track where you think your talk will be place."
       },

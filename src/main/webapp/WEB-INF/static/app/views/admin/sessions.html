@@ -36,7 +36,6 @@
 					<li role="presentation" ng-class="{active : tabType === ''}"><button ng-click="setActiveTab('')" href="#all" id="all-tab" role="tab" data-toggle="tab" aria-controls="all" aria-expanded="true">{{'admin.allType' | translate}}</button></li>
 					<li role="presentation" ng-class="{active : tabType === 'conference'}"><button ng-click="setActiveTab('conference')" href="#conference" role="tab" id="conference-tab" data-toggle="tab" aria-controls="conference" aria-expanded="false">{{'step2.types.conference' | translate}}</button></li>
 					<li role="presentation" ng-class="{active : tabType === 'codelab'}"><button ng-click="setActiveTab('codelab')" href="#codelab" role="tab" id="codelab-tab" data-toggle="tab" aria-controls="codelab" aria-expanded="false">{{'step2.types.codelab' | translate}}</button></li>
-          <li role="presentation" ng-class="{active : tabType === 'quickie'}"><button ng-click="setActiveTab('quickie')" href="#quickie" role="tab" id="quickie-tab" data-toggle="tab" aria-controls="quickie" aria-expanded="false">{{'step2.types.quickie' | translate}}</button></li>
 				</ul>
 				<div id="tabContent" class="tab-content tile">
 					<div role="tabpanel" ng-class="{active : tabType === '', in : tabType === ''}" class="tab-pane fade" id="all" aria-labelledby="all-tab">
