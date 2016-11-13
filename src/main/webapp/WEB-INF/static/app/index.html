@@ -6,7 +6,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>CFP - DevFest 2016</title>
+    <title>CFP - DevFest Lille 2017</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="theme-color" content="#3f51b5">
@@ -50,18 +50,18 @@
     <!-- endbuild -->
     <style>
       .build-details {
-        display: flex;
+          display: flex;
           flex-direction: row;
           justify-content: center;
           align-items: center;
       }
 
       .build-details .loader-container div {
-          width: 39px;
-          height: 30px;
-          position: absolute;
+          width: 300px;
+          height: 300px;
+          position: relative;
           opacity: 0;
-          -webkit-transform: translateY(-30px);
+          -webkit-transform: translateY(-0px);
           -webkit-animation: loader-brick 4s ease-in infinite;
           transform: translateY(-30px);
           animation: loader-brick 4s ease-in infinite
@@ -132,24 +132,11 @@
       }
 
       .build-details .loader-container .first {
-          background: transparent url(./loader_1.png) 0 0;
-          top: 160px;
+          background: transparent url(./images/loader.png) no-repeat;
+          top: 100px;
           z-index: 10
       }
 
-      .build-details .loader-container .second {
-          background: transparent url(./loader_2.png) 0 0;
-          top: 145px;
-          z-index: 11;
-          -webkit-animation-delay: .4s
-      }
-
-      .build-details .loader-container .third {
-          background: transparent url(./loader_3.png) 0 0;
-          top: 130px;
-          z-index: 12;
-          -webkit-animation-delay: .8s
-      }
     </style>
 </head>
 <body ng-app="CallForPaper">
@@ -165,8 +152,6 @@
     <div id="views" ui-view="">
       <header class="build-details">
         <div class="loader-container">
-          <div class="third"></div>
-          <div class="second"></div>
           <div class="first"></div>
         </div>
       </header>
