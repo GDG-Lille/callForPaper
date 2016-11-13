@@ -129,7 +129,7 @@ angular.module('CallForPaper')
           "discovery": "Découverte (UX Design, Management, Agilité)"
         },
         "type": "Type * :",
-        "hintType": "Une conférence doit durer environ 50 minutes, un codelab 2 heures et un quickie 20 minutes (Q/R incluses).",
+        "hintType": "Une conférence doit durer environ 50 minutes et un codelab 2 heures.",
         "types": {
           "conference": "Conférence",
           "codelab": "Codelab"
@@ -415,7 +415,7 @@ angular.module('CallForPaper')
           "discovery": "Discovery (UX Design / Agile / Management / Robots...)"
         },
         "type": "Type *:",
-        "hintType": "A conference must last about 50 minutes, a codelab about 2 hours and a 'quickie' talk 20 minutes.",
+        "hintType": "A conference must last about 50 minutes and a codelab about 2 hours.",
         "types": {
           "conference": "Conference",
           "codelab": "Codelab"
