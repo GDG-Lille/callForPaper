@@ -26,7 +26,7 @@ angular.module('CallForPaper')
       "disclaimer": {
         "line1": "aura lieu le 9 juin 2017 à l'école E-Artsup de Lille.",
         "line2": "Les principaux thèmes de cette année sont : #cloud #web #mobile #discovery.",
-        "line3": "D'autres sujets sont les bienvenus si vous croyez qu'ils sont pertinents (.",
+        "line3": "D'autres sujets sont les bienvenus si vous croyez qu'ils sont pertinents.",
         "line4": "2 speakers maximum.",
         "line5": "Les speakers sélectionnés par le CFP auront accès gratuitement à la conférence. Petit-déjeuner, Déjeuner, Speaker Dinner sont inclus dans le package.",
         "line6": "Les frais de déplacement et d'hébergement POURRAIENT être couverts par le DevFest Lille pour les speakers sélectionnés dans le cadre de ce CFP.",
