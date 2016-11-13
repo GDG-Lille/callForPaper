@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <appengine-web-app xmlns="http://appengine.google.com/ns/1.0">
-    <application>devfestnantes2015-cfp</application>
-    <version>v10</version>
+    <application>cfp-gdglille</application>
+    <version>v2</version>
     <threadsafe>true</threadsafe>
     <module>backend</module>
     <system-properties>
