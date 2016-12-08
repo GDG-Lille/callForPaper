@@ -32,7 +32,7 @@ angular.module('CallForPaper')
         "line6": "Les frais de déplacement et d'hébergement POURRAIENT être couverts par le DevFest Lille pour les speakers sélectionnés dans le cadre de ce CFP.",
         "line7": "Pour les speakers qui n'ont pas été sélectionnés, nous ouvrirons si nécessaire de nouvelles places pour permettre à ces derniers de s'inscrire.",
         "codeConduct": "Code de conduite",
-        "urlCodeConduct": "http://devfest.gdglille.org/cod.html",
+        "urlCodeConduct": "https://devfest.gdglille.org/#/code-of-conduct",
         "informations": "Voici quelques informations sur les formats et catégories des talks :",
         "track": "Catégories :",
         "type": "Formats (durée Q/R incluses) :"
